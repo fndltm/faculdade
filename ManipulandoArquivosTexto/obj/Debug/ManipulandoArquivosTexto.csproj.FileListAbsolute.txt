@@ -1,0 +1,10 @@
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe.config
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.exe
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\bin\Debug\ManipulandoArquivosTexto.pdb
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csprojAssemblyReference.cache
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.Form1.resources
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.Properties.Resources.resources
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.GenerateResource.cache
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.exe
+C:\Users\Luiz\source\repos\ManipulandoArquivosTexto\obj\Debug\ManipulandoArquivosTexto.pdb

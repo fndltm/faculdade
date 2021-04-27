@@ -1,0 +1,11 @@
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\bin\Debug\netcoreapp2.1\RevisaoPOO.deps.json
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\bin\Debug\netcoreapp2.1\RevisaoPOO.runtimeconfig.json
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\bin\Debug\netcoreapp2.1\RevisaoPOO.runtimeconfig.dev.json
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\bin\Debug\netcoreapp2.1\RevisaoPOO.dll
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\bin\Debug\netcoreapp2.1\RevisaoPOO.pdb
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\obj\Debug\netcoreapp2.1\RevisaoPOO.csprojAssemblyReference.cache
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\obj\Debug\netcoreapp2.1\RevisaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\obj\Debug\netcoreapp2.1\RevisaoPOO.AssemblyInfoInputs.cache
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\obj\Debug\netcoreapp2.1\RevisaoPOO.AssemblyInfo.cs
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\obj\Debug\netcoreapp2.1\RevisaoPOO.dll
+C:\Users\Luiz\Documents\workspace\AED\RevisaoPOO\obj\Debug\netcoreapp2.1\RevisaoPOO.pdb
